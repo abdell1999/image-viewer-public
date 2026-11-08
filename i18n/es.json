@@ -141,5 +141,13 @@
   "nav.firstImage": "Primera imagen",
   "nav.lastImage": "Última imagen",
   "file.showInFileManager": "Mostrar en el explorador de archivos",
-  "file.showInFileManagerFailed": "Error al abrir el explorador de archivos"
+  "file.showInFileManagerFailed": "Error al abrir el explorador de archivos",
+  "app.close": "Cerrar",
+  "settings.noHotkey": "Sin asignar",
+  "recent.remove": "Quitar de recientes",
+  "nav.shuffleMode": "Orden aleatorio",
+  "viewer.emptyTitle": "Arrastra imágenes aquí",
+  "viewer.emptyHint": "o ábrelas desde tu equipo",
+  "viewer.selectHint": "Elige una imagen en la galería",
+  "toolbar.more": "Más acciones"
 }

@@ -141,5 +141,13 @@
   "nav.firstImage": "First image",
   "nav.lastImage": "Last image",
   "file.showInFileManager": "Show in file manager",
-  "file.showInFileManagerFailed": "Failed to open file manager"
+  "file.showInFileManagerFailed": "Failed to open file manager",
+  "app.close": "Close",
+  "settings.noHotkey": "Unassigned",
+  "recent.remove": "Remove from recent",
+  "nav.shuffleMode": "Shuffle order",
+  "viewer.emptyTitle": "Drop images here",
+  "viewer.emptyHint": "or open them from your device",
+  "viewer.selectHint": "Pick an image from the gallery",
+  "toolbar.more": "More actions"
 }

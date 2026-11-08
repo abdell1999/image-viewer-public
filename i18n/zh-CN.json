@@ -139,5 +139,13 @@
   "nav.firstImage": "第一张图片",
   "nav.lastImage": "最后一张图片",
   "file.showInFileManager": "在文件管理器中显示",
-  "file.showInFileManagerFailed": "无法打开文件管理器"
+  "file.showInFileManagerFailed": "无法打开文件管理器",
+  "app.close": "关闭",
+  "settings.noHotkey": "未设置",
+  "recent.remove": "从最近列表中移除",
+  "nav.shuffleMode": "随机顺序",
+  "viewer.emptyTitle": "将图片拖到此处",
+  "viewer.emptyHint": "或从设备中打开",
+  "viewer.selectHint": "从图库中选择一张图片",
+  "toolbar.more": "更多操作"
 }
